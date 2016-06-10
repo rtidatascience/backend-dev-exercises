@@ -7,12 +7,12 @@ Welcome to Exercise 01. This exercise provides a small SQLite database with some
 ### Some guidance
 
 1. Use open source languages and tools, such as Python, R, Ruby, or Java.
-2. Fork this repository to your personal GitHub account and clone the fork to your computer.
-3. Save and commit your answers to your fork of the repository, and push them back to your personal GitHub account. You can then provide a link to that fork of the repository if you need to show a code example.
-4. Use the Internet as a resource to help you complete your work. We do it all the time.
-5. Comment your code so that when you look back at it in a year, you'll remember what you were doing.
-6. There are many ways to approach and solve the problems presented in this exercise.
-7. Have fun!
+2. Clone this repository to your computer. Work in your clone of it, and when you're done, send us a tarball, zip file, or link to your repo online.
+3. Use the Internet as a resource to help you complete your work. We do it all the time.
+4. Comment your code so that when you look back at it in a year, you'll remember what you were doing.
+5. There are many ways to approach and solve the problems presented in this exercise.
+6. Have fun!
+7. Don't spend more than about 2 hours max on this. You don't need to complete all the tasks listed below: they are just some examples to help you out.
 
 Google will point you to popular libraries for connecting to SQLite databases from Python, R, etc.
 
