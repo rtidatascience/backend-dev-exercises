@@ -6,7 +6,7 @@ Welcome to Exercise 01. This exercise provides a small SQLite database with some
 
 ### Some guidance
 
-1. Use open source languages and tools, such as Python, R, Ruby, or Java.
+1. Use open source languages and tools, such as Python, R, Ruby, or Java.  We would prefer you containerize your application using Docker for ease of evaluation, but this is optional.
 2. Clone this repository to your computer. Work in your clone of it, and when you're done, send us a tarball, zip file, or link to your repo online.
 3. Use the Internet as a resource to help you complete your work. We do it all the time.
 4. Comment your code so that when you look back at it in a year, you'll remember what you were doing.
